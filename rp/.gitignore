@@ -1,0 +1,7 @@
+
+
+*.gz
+*.pdf
+*.log
+*.fdb_latexmk
+

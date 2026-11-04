@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1793816638.77848 "c:/Users/at93263/racunalniski-praktikum/rp/05-latex/urnik.tex" "urnik.pdf" "urnik" 1793816639.46032 0
+["pdflatex"] 1793816867.54781 "c:/Users/at93263/racunalniski-praktikum/rp/05-latex/urnik.tex" "urnik.pdf" "urnik" 1793816868.14515 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx0900.tfm" 993061954 3200 f959f56c26f697d341ba38dba18fe1f8 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1000.tfm" 993061956 3200 328792ff19833a39406f06fa0555a6dc ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993061958 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
@@ -50,9 +50,9 @@
   "C:/Users/at93263/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1793812983 11548 d2590913fc819cf3252d5ebab03f1423 ""
   "C:/Users/at93263/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1793811504 13357503 8450e538ce9dc049da4564ab10d4004f ""
   "C:/Users/at93263/AppData/Roaming/MiKTeX/tex/latex/babel-slovenian/slovenian.ldf" 1748080874 3795 6a11b7ba6aa24ec0e0220b60f5ed04ca ""
-  "c:/Users/at93263/racunalniski-praktikum/rp/05-latex/urnik.tex" 1793816638 29512 5db5bb56bf0fd0c35eae8f34e4af63d8 ""
-  "urnik.aux" 1793816639 1599 2f7465ab4264ddc9ef3712a2a093f6b0 "pdflatex"
-  "urnik.tex" 1793816638 29512 5db5bb56bf0fd0c35eae8f34e4af63d8 ""
+  "c:/Users/at93263/racunalniski-praktikum/rp/05-latex/urnik.tex" 1793816866 29513 0599fe950d60edf378c2cf6665c4ed2e ""
+  "urnik.aux" 1793816868 1599 2f7465ab4264ddc9ef3712a2a093f6b0 "pdflatex"
+  "urnik.tex" 1793816866 29513 0599fe950d60edf378c2cf6665c4ed2e ""
   (generated)
   "urnik.aux"
   "urnik.log"
