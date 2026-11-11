@@ -1,7 +1,8 @@
 
 
-*.gz
+
 *.pdf
 *.log
 *.fdb_latexmk
-
+*.gz
+*.fls

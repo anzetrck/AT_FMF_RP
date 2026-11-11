@@ -9,6 +9,7 @@
 \usepackage[slovene]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{lmodern}
 \usepackage{amsmath}
 
 \begin{document}
@@ -509,14 +510,14 @@ točk, oziroma ki ima največjo vrednost kriterijske funkcije.
 
    Zanko izvajamo, dokler ne dosežemo enega izmed ustavitvenih pogojev.
 
-   Rešitev ??, ki smo jo dobili s pomočjo požrešne metode, izboljšamo z lokalnim vzpenjanjem
+   Rešitev \(r\), ki smo jo dobili s pomočjo požrešne metode, izboljšamo z lokalnim vzpenjanjem
    ali iskanjem s tabuji. Kot je že bilo povedano, je iskanje s tabuji nekoliko primernejša metoda,
    saj nas bo lažje pripeljala iz lokalnega maksimuma, do katerega smo prišli s požrešno metodo.
    Vsekakor pa ni nič narobe, če srečo poskusimo tudi z lokalnim vzpenjanjem.
 
-   Na vsakem koraku ocenimo izboljšamo rešitev ??. Če je vrednost kriterijske funkcije
+   Na vsakem koraku ocenimo izboljšamo rešitev \(r\). Če je vrednost kriterijske funkcije
    za trenutno rešitev prešla zastavljeno zadovoljivo mejo, potem se program zaključi. Prav tako
-   se zaključi, če po ?? korakih še vedno tičimo v istem lokalnem maksimumu.
+   se zaključi, če po \(n\) korakih še vedno tičimo v istem lokalnem maksimumu.
 
 % Spodnja vrstica ne začne novega odstavka, zato ne bi smela biti zamaknjena.
 % To popravite z ukazom `\noindent` ali pa tako, da odstranite prazno vrstico.
@@ -529,9 +530,9 @@ uporabili katero izmed tehnik - mogoče bi katero izmed teh postopanj dalo celo 
 
 % V spodnjem odstavku naj bodo črke G, U in I v "Graphical User Interface" podčrtane.
 Sledili smo receptu in s tem izdelali "okusen obrok", treba ga je le še ustrezno postreči
-gostom za mizo. S tem imamo v mislih grafični uporabniški vmesnik (Graphical
-User Interface), ki mora urnik uporabnikom predstaviti na razumljiv in
-pregleden način. Končnega izgleda izdelka nikakor ne smemo zanemariti, saj je ta med uporabniki
+gostom za mizo. S tem imamo v mislih grafični uporabniški vmesnik
+(\underline{G}raphical \underline{U}ser \underline{I}nterface), ki mora urnik
+uporabnikom predstaviti na razumljiv in pregleden način. Končnega izgleda izdelka nikakor ne smemo zanemariti, saj je ta med uporabniki
 vreden skoraj toliko kot kakovosten urnik. Odločili smo se, da za razmišljanje o tej temi vaši
 domišljiji pustimo prosto pot.
 
